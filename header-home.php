@@ -7,35 +7,9 @@
         <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <![endif]-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <!-- Google Fonts -->
-        <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700,900,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Raleway:400,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300italic,400italic,600italic,700italic,600,800,300,700,800italic' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
-        <!-- Google Fonts -->
-
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-        <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory') ?>/css/bootstrap.min.css">
-        <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory') ?>/css/magnific-popup.css">
-        <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory') ?>/css/style.css">
-        <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory') ?>/css/revslider/revslider-index34.css">
-        <link rel="stylesheet" id="color-scheme" href="<?php bloginfo('stylesheet_directory') ?>/css/colors/blue.css">
-
-        <!-- Modernizr -->
-        <script src="<?php bloginfo('stylesheet_directory') ?>/js/modernizr.js"></script>
-
-        <!--- jQuery -->
-        <script src="<?php bloginfo('stylesheet_directory') ?>/js/jquery.min.js"></script>
-
-        <!-- Queryloader -->
-        <script src="<?php bloginfo('stylesheet_directory') ?>/js/queryloader2.min.js"></script>
         <?php wp_head(); ?>
     </head>
     <body data-spy="scroll" data-target="#main-navbar-container" <?php body_class(); ?>>
-
-    <div class="boss-loader-overlay"></div><!-- End .boss-loader-overlay -->
 
     <div id="wrapper">
         <header class="side-menu header-side-menu navbar-white left small-icons" role="banner">
@@ -49,7 +23,7 @@
                         <img src="<?php bloginfo('stylesheet_directory') ?>/images/allure.png" alt="Logo">
                     </a>
                 </h1>
-
+                <h6 class="headline animated slideInUp">It's the only body you get, make it great!</h6><br>
                 <nav id="main-navbar-container">
                     <ul class="nav navbar-nav nav-stacked">
                         <li>
@@ -64,7 +38,7 @@
 
                 <div class="social-icons social-icons-sm pull-left">
                   <a href="https://www.facebook.com/allureaestheticsnc/" class="social-icon icon-facebook add-tooltip" title="Facebook">
-                        <i class="fa fa-facebook"></i>
+                        <i class="fab fa-facebook"></i>
                     </a>
                     <a href="https://www.instagram.com/allure_aestheticsnc/" class="social-icon icon-instagram add-tooltip" title="Instagram">
                         <i class="fab fa-instagram"></i>

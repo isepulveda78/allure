@@ -26,23 +26,5 @@
       <a href="#top" id="scroll-top" title="Back to Top"><i class="fa fa-angle-up"></i></a>
       <!-- END -->
 
-      <!-- Smoothscroll -->
-      <script src="<?php bloginfo('template_directory'); ?>/js/smoothscroll.js"></script>
-
-      <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap.min.js"></script>
-      <script src="<?php bloginfo('template_directory'); ?>/js/jquery.hoverIntent.min.js"></script>
-      <script src="<?php bloginfo('template_directory'); ?>/js/jquery.nicescroll.min.js"></script>
-      <script src="<?php bloginfo('template_directory'); ?>/js/waypoints.min.js"></script>
-      <script src="<?php bloginfo('template_directory'); ?>/js/waypoints-sticky.min.js"></script>
-      <script src="<?php bloginfo('template_directory'); ?>/js/jquery.debouncedresize.js"></script>
-      <script src="<?php bloginfo('template_directory'); ?>/js/retina.min.js"></script>
-      <script src="<?php bloginfo('template_directory'); ?>/js/owl.carousel.min.js"></script>
-      <script src="<?php bloginfo('template_directory'); ?>/js/jflickrfeed.min.js"></script>
-      <script src="<?php bloginfo('template_directory'); ?>/js/twitter/jquery.tweet.min.js"></script>
-      <script src="<?php bloginfo('template_directory'); ?>/js/skrollr.min.js"></script>
-      <script src="<?php bloginfo('template_directory'); ?>/js/jquery.countTo.js"></script>
-      <script src="<?php bloginfo('template_directory'); ?>/js/wow.min.js"></script>
-      <script src="<?php bloginfo('template_directory'); ?>/js/main.js"></script>
-
       </body>
       </html>

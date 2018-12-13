@@ -16113,11 +16113,8 @@ only screen and (min-device-pixel-ratio: 1.5) {
 	margin-top: -50px;
 }
 .headline{
-	position: absolute;
-    top: 35%;
-    left: 28%;
-    transform: translate(-50%, -50%);
-    color: #fff;
+	margin-top: -20px;
+	color: #00aeef;
 }
 .portfolio-item {
   margin-bottom: 30px;
